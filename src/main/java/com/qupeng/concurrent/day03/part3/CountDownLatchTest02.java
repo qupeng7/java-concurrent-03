@@ -17,7 +17,7 @@ import java.util.concurrent.CountDownLatch;
  * 这里使用CountDownLatch
  * 解决这个需求
  *  
- * @author Peter
+ * @author qupeng
  */
 public class CountDownLatchTest02 {
 	
@@ -75,7 +75,7 @@ public class CountDownLatchTest02 {
 /**
  * 加上volatile后使box的修改可以得到通知
  * 
- * @author Peter
+ * @author qupeng
  */
 class Box_5{
 	

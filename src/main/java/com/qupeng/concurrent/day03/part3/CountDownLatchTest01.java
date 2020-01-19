@@ -7,7 +7,7 @@ import java.util.concurrent.CountDownLatch;
  *  实现并行处理最后汇总结果的功能
  *  
  * 以 汽车生产为例
- * @author Peter
+ * @author qupeng
  */
 public class CountDownLatchTest01 {
 	

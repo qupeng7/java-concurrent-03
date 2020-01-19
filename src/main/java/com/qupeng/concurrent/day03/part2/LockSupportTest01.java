@@ -4,7 +4,7 @@ import java.util.concurrent.locks.LockSupport;
 
 /**
  *LockSupport的等待和唤醒 
- * @author Peter
+ * @author qupeng
  */
 public class LockSupportTest01 {
 	

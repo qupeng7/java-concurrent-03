@@ -7,7 +7,7 @@ import java.util.concurrent.locks.LockSupport;
  *先唤醒，再等待的情况
  *相当于对唤醒进行了一个抵消作用，
  *本人称之为：0  -1  0作用
- * @author Peter
+ * @author qupeng
  */
 public class LockSupportTest02 {
 	

@@ -2,7 +2,7 @@ package com.qupeng.concurrent.day03.part2;
 
 /**
  *LockSupport的等待是否释放锁
- * @author Peter
+ * @author qupeng
  */
 public class LockSupportTest03 {
 	

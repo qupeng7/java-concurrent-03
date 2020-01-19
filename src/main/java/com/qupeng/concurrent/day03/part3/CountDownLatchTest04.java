@@ -7,7 +7,7 @@ import java.util.concurrent.TimeUnit;
  *  向下减的门闩
  *  API的使用讲解
  *  对中断的处理
- * @author Peter
+ * @author qupeng
  */
 public class CountDownLatchTest04 {
 	

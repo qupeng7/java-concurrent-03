@@ -5,7 +5,7 @@ import java.util.concurrent.locks.LockSupport;
 /**
  * LockSupport对interrupt的感知
  * 不需要抛异常直接被中断
- * @author Peter
+ * @author qupeng
  */
 public class LockSupportTest04 {
 

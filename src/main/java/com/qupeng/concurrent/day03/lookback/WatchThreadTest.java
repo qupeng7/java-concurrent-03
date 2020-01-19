@@ -8,7 +8,7 @@ package com.qupeng.concurrent.day03.lookback;
  * 使用继承Thread类的方式在run方法上加synchronized
  * 达不到同步的效果，因为每个线程锁的都是自己，而这
  * 每个线程又是不同的对象，所以达不到同步效果。
- * @author Peter
+ * @author qupeng
  */
 public class WatchThreadTest{
 

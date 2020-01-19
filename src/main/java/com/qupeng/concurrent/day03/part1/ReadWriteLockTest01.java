@@ -8,7 +8,7 @@ import java.util.concurrent.locks.ReentrantReadWriteLock;
  * 读写锁的用法
  * 将锁的类别更加细化的一种解决问题的方式，
  * 能更好的提高效率
- * @author Peter
+ * @author qupeng
  */
 public class ReadWriteLockTest01 {
 	

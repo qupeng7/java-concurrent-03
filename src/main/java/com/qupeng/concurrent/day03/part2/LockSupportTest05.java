@@ -5,7 +5,7 @@ import java.util.concurrent.locks.LockSupport;
 /**
  * LockSupport的应用
  * 用LockSupport实现非重入锁
- * @author Peter
+ * @author qupeng
  */
 public class LockSupportTest05 {
 	

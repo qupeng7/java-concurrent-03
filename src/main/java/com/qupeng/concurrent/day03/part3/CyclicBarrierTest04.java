@@ -6,7 +6,7 @@ import java.util.concurrent.CyclicBarrier;
 /**
  * 栅栏：本人比喻为：检测站
  * 对构造器进行测试
- * @author Peter
+ * @author qupeng
  */
 public class CyclicBarrierTest04 {
 

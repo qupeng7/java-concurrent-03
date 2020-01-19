@@ -7,7 +7,7 @@ import java.util.concurrent.locks.ReentrantReadWriteLock;
  * 解决脏读问题
  * 这里使用读写锁去实现同步，
  * 就比直接用synchronized高效很多
- * @author Peter
+ * @author qupeng
  */
 public class SolveDirtyRead {
 	

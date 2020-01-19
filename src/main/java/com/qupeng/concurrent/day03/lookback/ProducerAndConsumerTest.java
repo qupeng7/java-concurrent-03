@@ -5,7 +5,7 @@ package com.qupeng.concurrent.day03.lookback;
  * 有可能会唤醒本类的线程即：
  * 在多生产这多消费者的时候会出现
  * 消费者唤醒消费者，生产者唤醒生产者而的情况。
- * @author Peter
+ * @author qupeng
  */
 public class ProducerAndConsumerTest {
 
